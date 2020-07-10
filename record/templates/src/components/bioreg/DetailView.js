@@ -31,7 +31,7 @@ class DetailView extends Component {
         if (this.props.match) {
             const { pk } = this.props.match.params
             this.props.deleteData(pk);
-            this.props.history.push(`/listview`);
+            this.props.history.push(`/`);
         }
     }
     stateChange = () => {
