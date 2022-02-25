@@ -1,5 +1,5 @@
 
-### This is a Medical Record Management Web Application created by BELIEVE OHIOZUA as an Assessment Exercise
+### This is a Medical Record Management Web Application created by BELIEVE OHIOZUA
 ### The Application Leverages on:
 Django <br>
 Django Restframework <br>
